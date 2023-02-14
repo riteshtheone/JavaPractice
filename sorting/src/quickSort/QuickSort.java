@@ -1,4 +1,4 @@
-package quickSort;
+// package quickSort;
 
 public class QuickSort {
 
