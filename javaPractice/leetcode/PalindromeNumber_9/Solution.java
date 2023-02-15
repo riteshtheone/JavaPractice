@@ -13,7 +13,7 @@ class Solution {
         return (x == reverse);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         var sc = new Scanner(System.in);
         var x = sc.nextInt();
         System.out.println(new Solution().isPalindrome(x));
