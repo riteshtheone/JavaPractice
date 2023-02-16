@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Solution {
     public boolean isPalindrome(int x) {
         if(x < 0) return false;
@@ -14,7 +12,7 @@ class Solution {
     }
 
     public static void main(String[] args) {  
-        var sc = new Scanner(System.in);
+        var sc = new java.util.Scanner(System.in);
         var x = sc.nextInt();
         System.out.println(new Solution().isPalindrome(x));
         sc.close();

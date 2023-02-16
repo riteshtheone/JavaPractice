@@ -2,21 +2,17 @@
 
 If there is no common prefix, return an empty string `""`.
 
- 
-
 **Example 1:**
 ```http
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 ```
-
 **Example 2:**
 ```http
 Input: strs = ["dog","racecar","car"]
 Output: ""
 Explanation: There is no common prefix among the input strings.
  ```
-
 **Constraints:**
 
 - `1 <= strs.length <= 200`
