@@ -1,4 +1,5 @@
-class Solution {
+class PalindromeNumber {
+
     public boolean isPalindrome(int x) {
         if(x < 0) return false;
         if(x < 10) return true;
@@ -14,7 +15,7 @@ class Solution {
     public static void main(String[] args) {  
         var sc = new java.util.Scanner(System.in);
         var x = sc.nextInt();
-        System.out.println(new Solution().isPalindrome(x));
+        System.out.println(new PalindromeNumber().isPalindrome(x));
         sc.close();
     }
 }
