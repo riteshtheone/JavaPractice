@@ -21,7 +21,6 @@ Explanation: There is no common prefix among the input strings.
 
 ```
 ```
-
 *Method :-*
 ```java
 public String longestCommonPrefix(String[] strs) {
