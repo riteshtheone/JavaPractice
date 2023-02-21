@@ -19,8 +19,7 @@ Explanation: There is no common prefix among the input strings.
 - `0 <= strs[i].length <= 200`
 - `strs[i]` consists of only lowercase English letters.
 
-```
-```
+---
 *Method :-*
 ```java
 public String longestCommonPrefix(String[] strs) {

@@ -27,8 +27,7 @@ Output: false
 - `1 <= s.length <= 104`
 - `s` consists of parentheses only `'()[]{}'`.
 
-```
-```
+---
 *Method :-*
 ```java
 public boolean isValid(String s) {
