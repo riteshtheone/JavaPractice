@@ -27,5 +27,6 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 *Method :-*
 ```java
     public boolean isPalindrome(int x) {
+    
     }
 ```
